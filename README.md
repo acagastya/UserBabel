@@ -7,4 +7,4 @@
 + Create a new Issue
 + Tell which is your home Wikinews (more than one is okay)
 + List the languages that you speak (and tell the degree of proficiency)
-+ Add information about the editor rights you have on various Wikinews (editor, reviewer, syson/admin...)
++ Add information about the editor rights you have on various Wikinews (editor, reviewer, sysop/admin...)
